@@ -2,4 +2,9 @@ DONNEL SIMBAJON
 
 HALA KA IN LOVE AKO SA KAPIT BAHAY KO
 
+<<<<<<< HEAD
 sdada
+=======
+HAHAHAHA
+qewq    
+>>>>>>> nel
